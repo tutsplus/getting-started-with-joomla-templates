@@ -5,8 +5,6 @@ Joomla! is an incredibly powerful CMS. Joomla-generated websites can be equipped
 
 With the fundamentals learned in this Coffee Break Course, you'll be designing and developing Joomla templates in no time.
 
-Source files for the Tuts+ tutorial: [https://code.tutsplus.com/courses/getting-started-with-joomla-templates]
-
 Included within:
 - empty_joomla_template.zip, the basic template used in the video
 - documentation.md, a short glossary on the available objects, attributes and parameters used for Joomla template development
